@@ -15,6 +15,11 @@ $ jspm install
     * This should happen all in one application with goal to be able to take out single components and run them later independently.
 
 * First step would be to take the example code out of app.html, place it in a component and link to this component.
+    * create a directory for each: material - angular - redux - cos
+    * move the Material Design example into the material folder
+    * create a toolbar and tabs for with just the component selectors as tab content
+  
+* run code with live-server ==> **works**    
 <pre><code>
 </code></pre>
 * next step:
